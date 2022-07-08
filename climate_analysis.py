@@ -30,4 +30,4 @@ for line in climate_data:
 
             print(str(celsius)+", "+str(kelvin))
 
-#todo
+#todo: lucia  w. rainfall processing code
